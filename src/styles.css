@@ -48,3 +48,6 @@ select:disabled {
 .table-emp th:nth-child(even) {
   background-color: rgba(9, 255, 0, 0.5);
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
