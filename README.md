@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
+Login As :
+username : admin
+password : admin
+
+All route except "/" (Login Page) covered by AuthGuard. so user must login first with account.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
